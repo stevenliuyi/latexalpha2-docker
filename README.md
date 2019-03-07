@@ -1,6 +1,6 @@
 ## Dockerized latexalpha2
 
-[![](https://images.microbadger.com/badges/image/stevenliuyi/latexalpha2.svg)](https://microbadger.com/images/stevenliuyi/latexalpha2)
+[![](https://images.microbadger.com/badges/image/stevenliuyi/latexalpha2.svg)](https://hub.docker.com/r/stevenliuyi/latexalpha2)
 
 Docker image that hosts [latexalpha2](https://github.com/stevenliuyi/latex-alpha2) with Mathics.
 
